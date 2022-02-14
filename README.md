@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vlsdimir!
+- 👋 Hi, I’m Vladimir!
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning Java and QA automation
 - 💞️ I’m looking to collaborate on any project as QA engeneer
